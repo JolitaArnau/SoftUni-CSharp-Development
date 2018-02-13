@@ -1,0 +1,10 @@
+/Users/jolitaarnaudova/Documents/Programming/C#/C#OOP_Basic/01. Defining Classes/DateCalculator/DateCalculator/bin/Debug/netcoreapp2.0/DateCalculator.deps.json
+/Users/jolitaarnaudova/Documents/Programming/C#/C#OOP_Basic/01. Defining Classes/DateCalculator/DateCalculator/bin/Debug/netcoreapp2.0/DateCalculator.runtimeconfig.json
+/Users/jolitaarnaudova/Documents/Programming/C#/C#OOP_Basic/01. Defining Classes/DateCalculator/DateCalculator/bin/Debug/netcoreapp2.0/DateCalculator.runtimeconfig.dev.json
+/Users/jolitaarnaudova/Documents/Programming/C#/C#OOP_Basic/01. Defining Classes/DateCalculator/DateCalculator/bin/Debug/netcoreapp2.0/DateCalculator.dll
+/Users/jolitaarnaudova/Documents/Programming/C#/C#OOP_Basic/01. Defining Classes/DateCalculator/DateCalculator/bin/Debug/netcoreapp2.0/DateCalculator.pdb
+/Users/jolitaarnaudova/Documents/Programming/C#/C#OOP_Basic/01. Defining Classes/DateCalculator/DateCalculator/obj/Debug/netcoreapp2.0/DateCalculator.csproj.CoreCompileInputs.cache
+/Users/jolitaarnaudova/Documents/Programming/C#/C#OOP_Basic/01. Defining Classes/DateCalculator/DateCalculator/obj/Debug/netcoreapp2.0/DateCalculator.AssemblyInfoInputs.cache
+/Users/jolitaarnaudova/Documents/Programming/C#/C#OOP_Basic/01. Defining Classes/DateCalculator/DateCalculator/obj/Debug/netcoreapp2.0/DateCalculator.AssemblyInfo.cs
+/Users/jolitaarnaudova/Documents/Programming/C#/C#OOP_Basic/01. Defining Classes/DateCalculator/DateCalculator/obj/Debug/netcoreapp2.0/DateCalculator.dll
+/Users/jolitaarnaudova/Documents/Programming/C#/C#OOP_Basic/01. Defining Classes/DateCalculator/DateCalculator/obj/Debug/netcoreapp2.0/DateCalculator.pdb

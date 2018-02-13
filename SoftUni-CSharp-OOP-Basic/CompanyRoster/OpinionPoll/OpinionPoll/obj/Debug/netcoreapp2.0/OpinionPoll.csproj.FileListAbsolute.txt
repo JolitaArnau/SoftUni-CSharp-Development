@@ -1,0 +1,10 @@
+/Users/jolitaarnaudova/Documents/Programming/C#/C#OOP_Basic/01. Defining Classes/OpinionPoll/OpinionPoll/bin/Debug/netcoreapp2.0/OpinionPoll.deps.json
+/Users/jolitaarnaudova/Documents/Programming/C#/C#OOP_Basic/01. Defining Classes/OpinionPoll/OpinionPoll/bin/Debug/netcoreapp2.0/OpinionPoll.runtimeconfig.json
+/Users/jolitaarnaudova/Documents/Programming/C#/C#OOP_Basic/01. Defining Classes/OpinionPoll/OpinionPoll/bin/Debug/netcoreapp2.0/OpinionPoll.runtimeconfig.dev.json
+/Users/jolitaarnaudova/Documents/Programming/C#/C#OOP_Basic/01. Defining Classes/OpinionPoll/OpinionPoll/bin/Debug/netcoreapp2.0/OpinionPoll.dll
+/Users/jolitaarnaudova/Documents/Programming/C#/C#OOP_Basic/01. Defining Classes/OpinionPoll/OpinionPoll/bin/Debug/netcoreapp2.0/OpinionPoll.pdb
+/Users/jolitaarnaudova/Documents/Programming/C#/C#OOP_Basic/01. Defining Classes/OpinionPoll/OpinionPoll/obj/Debug/netcoreapp2.0/OpinionPoll.csproj.CoreCompileInputs.cache
+/Users/jolitaarnaudova/Documents/Programming/C#/C#OOP_Basic/01. Defining Classes/OpinionPoll/OpinionPoll/obj/Debug/netcoreapp2.0/OpinionPoll.AssemblyInfoInputs.cache
+/Users/jolitaarnaudova/Documents/Programming/C#/C#OOP_Basic/01. Defining Classes/OpinionPoll/OpinionPoll/obj/Debug/netcoreapp2.0/OpinionPoll.AssemblyInfo.cs
+/Users/jolitaarnaudova/Documents/Programming/C#/C#OOP_Basic/01. Defining Classes/OpinionPoll/OpinionPoll/obj/Debug/netcoreapp2.0/OpinionPoll.dll
+/Users/jolitaarnaudova/Documents/Programming/C#/C#OOP_Basic/01. Defining Classes/OpinionPoll/OpinionPoll/obj/Debug/netcoreapp2.0/OpinionPoll.pdb
