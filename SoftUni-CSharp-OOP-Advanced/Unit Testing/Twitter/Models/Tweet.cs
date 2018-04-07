@@ -1,7 +1,7 @@
-﻿using Twitter.Contracts;
-
-namespace Twitter.Models
+﻿namespace Twitter.Models
 {
+    using Contracts;
+
     public class Tweet : ITweet
     {
         private IClient client;

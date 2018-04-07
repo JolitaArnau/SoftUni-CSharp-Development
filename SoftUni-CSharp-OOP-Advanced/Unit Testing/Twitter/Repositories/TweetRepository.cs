@@ -1,9 +1,9 @@
-﻿using System;
-using System.IO;
-using Twitter.Contracts;
-
-namespace Twitter.Repositories
+﻿namespace Twitter.Repositories
 {
+    using System;
+    using System.IO;
+    using Contracts;
+    
     public class TweetRepository : ITweetRepository
     {
         private const string ServerFileName = "server.txt";

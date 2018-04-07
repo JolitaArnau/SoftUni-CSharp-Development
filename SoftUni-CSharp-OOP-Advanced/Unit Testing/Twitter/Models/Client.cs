@@ -1,7 +1,7 @@
-﻿using Twitter.Contracts;
-
-namespace Twitter.Models
+﻿namespace Twitter.Models
 {
+    using Contracts;
+    
     public class Client : IClient
     {
         private IWriter writer;

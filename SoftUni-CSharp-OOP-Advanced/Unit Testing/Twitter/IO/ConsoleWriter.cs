@@ -1,8 +1,8 @@
-﻿using System;
-using Twitter.Contracts;
-
-namespace Twitter.IO
+﻿namespace Twitter.IO
 {
+    using System;
+    using Contracts;
+    
     public class ConsoleWriter : IWriter
     {
         public void WriteLine(string message)

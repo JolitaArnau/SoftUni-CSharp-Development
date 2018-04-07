@@ -1,10 +1,10 @@
-﻿using Twitter.Contracts;
-using Twitter.IO;
-using Twitter.Models;
-using Twitter.Repositories;
-
-namespace Twitter
+﻿namespace Twitter
 {
+    using Contracts;
+    using IO;
+    using Models;
+    using Repositories;
+
     public class StartUp
     {
         public static void Main()
