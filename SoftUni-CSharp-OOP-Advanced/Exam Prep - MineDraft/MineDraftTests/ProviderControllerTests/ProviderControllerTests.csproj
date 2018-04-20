@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="NUnit" Version="3.9.0" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\Mine Draft\MineDraft\MineDraft.csproj">
+      <Project>{CBA5F939-92E3-4D8D-8D32-B384A22B6F19}</Project>
+      <Name>MineDraft</Name>
+    </ProjectReference>
+  </ItemGroup>
+</Project>
