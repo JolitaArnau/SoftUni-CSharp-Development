@@ -1,4 +1,4 @@
-# SoftUni-CSharp-Development
+# C# Development Fundamentals [Software University Main Training Program] (https://softuni.bg/trainings/courses)
 | Courses  | Description
 | ------------- | ------------- |
 | C# Advanced  | Working with standard .NET Libaries, Using the right Data Structures, Edge Cases, Fundamentals of Functional Programming |
