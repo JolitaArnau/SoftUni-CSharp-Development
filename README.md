@@ -1,5 +1,7 @@
-# C# Development Fundamentals 
-<a href="ttps://softuni.bg/trainings/courses"> Software University Main Training Program </a>
+# C# Development
+
+<a href="ttps://softuni.bg/trainings/courses"> Courses from the Main Training Program at Software University</a>
+
 | Courses  | Description
 | ------------- | ------------- |
 | C# Advanced  | Working with standard .NET Libaries, Using the right Data Structures, Edge Cases, Fundamentals of Functional Programming |
