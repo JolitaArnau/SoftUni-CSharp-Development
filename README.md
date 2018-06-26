@@ -1,6 +1,6 @@
 # C# Development
 
-<a href="ttps://softuni.bg/trainings/courses"> Courses from the Main Training Program at Software University</a>
+<a href="https://softuni.bg/trainings/courses"> Courses from the Main Training Program at Software University</a>
 
 | Courses  | Description
 | ------------- | ------------- |
