@@ -29,7 +29,7 @@
 
         protected override void OnConfiguring(DbContextOptionsBuilder builder)
         {
-            base.OnConfiguring(builder);
+            //base.OnConfiguring(builder);
 
             if (!builder.IsConfigured)
             {
