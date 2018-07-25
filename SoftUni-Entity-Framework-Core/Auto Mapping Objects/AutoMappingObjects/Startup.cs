@@ -46,8 +46,6 @@
                             var salary = decimal.Parse(commandTokens[2]);
 
                             employeeService.Add(firstName, lasttName, salary);
-
-                            Console.WriteLine($"Added {firstName} {lasttName} with salary ${salary}.");
                             break;
                         case "SetBirthday":
                             var id = int.Parse(commandTokens[0]);
@@ -55,16 +53,12 @@
                                 CultureInfo.InvariantCulture);
 
                             employeeService.SetBirthday(id, birthday);
-
-                            Console.WriteLine($"Set birthday of employee with id {id} to {birthday:dd-MM-yyyy}");
                             break;
                         case "SetAddress":
                             id = int.Parse(commandTokens[0]);
                             var address = commandTokens[1];
 
                             employeeService.SetAddress(id, address);
-
-                            Console.WriteLine($"Employee with id {id} lives in {address}");
                             break;
                         case "EmployeeInfo":
                             id = int.Parse(commandTokens[0]);
