@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<students>
+    <student>
+        <name>Pesho Peshov</name>
+        <gender>male</gender>
+        <birthDate>1994/11/07</birthDate>
+        <phoneNumber>0899839832</phoneNumber>
+        <email>pesho.peshov@gmail.com</email>
+        <university>Software University</university>
+        <specialty>JavaScript Developer</specialty>
+        <facultyNumber>17092548</facultyNumber>
+        <exams>
+            <exam>
+                <name>JS Fundamentals</name>
+                <dateTaken>12/01/2017</dateTaken>
+                <grade>5.16</grade>
+            </exam>
+        </exams>
+    </student>
+    <student>
+        <name>Donka Doneva</name>
+        <gender>female</gender>
+        <birthDate>1995/07/08</birthDate>
+        <phoneNumber>017675463271</phoneNumber>
+        <email>doneva.donka@mail.eu</email>
+        <university>Technical University Imaginative City</university>
+        <specialty>AI</specialty>
+        <facultyNumber>#98331345</facultyNumber>
+        <exams>
+            <exam>
+                <name>Machine Learning Fundamentals</name>
+                <dateTaken>2017/08/06</dateTaken>
+                <grade>6.00</grade>
+            </exam>
+        </exams>
+    </student>
+    <student>
+        <name>Ina Prodanova</name>
+        <gender>female</gender>
+        <birthDate>1997/02/03</birthDate>
+        <phoneNumber></phoneNumber>
+        <email>ina.prodanova@hotmail.com</email>
+        <university>LMU München</university>
+        <specialty>BWL</specialty>
+        <facultyNumber>#lmu124853muc</facultyNumber>
+        <exams>
+            <exam>
+                <name>BWL Bacis</name>
+                <dateTaken>2016/05/04</dateTaken>
+                <grade>1.00</grade>
+            </exam>
+        </exams>
+    </student>
+</students>
