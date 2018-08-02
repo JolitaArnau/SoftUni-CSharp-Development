@@ -31,7 +31,7 @@ namespace IntroToEFCore.Data
             if (!optionsBuilder.IsConfigured)
             {
 #warning To protect potentially sensitive information in your connection string, you should move it out of source code. See http://go.microsoft.com/fwlink/?LinkId=723263 for guidance on storing connection strings.
-                optionsBuilder.UseSqlServer("Server=127.0.0.1,1433;Database=SoftUni2;User Id=SA;Password=4e6mi4ka!");
+                optionsBuilder.UseSqlServer("Server=127.0.0.1,1433;Database=SoftUni2;Integrated Security=True;");
             }
         }
 
