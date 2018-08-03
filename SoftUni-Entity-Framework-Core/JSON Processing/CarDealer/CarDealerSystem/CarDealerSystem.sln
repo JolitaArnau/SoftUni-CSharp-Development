@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarDealer.App", "CarDealer.App.csproj", "{3A000CF2-0BEE-485E-B0CB-8A33E59119B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarDealer.Data", "..\CarDealer.Data\CarDealer.Data.csproj", "{ABB377C3-4E69-45B4-B7E8-70CDFF3918C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarDealer.Models", "..\CarDealer.Models\CarDealer.Models.csproj", "{8E5490EC-D862-4362-B824-A3DDB8F9DAB3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A000CF2-0BEE-485E-B0CB-8A33E59119B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A000CF2-0BEE-485E-B0CB-8A33E59119B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A000CF2-0BEE-485E-B0CB-8A33E59119B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A000CF2-0BEE-485E-B0CB-8A33E59119B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABB377C3-4E69-45B4-B7E8-70CDFF3918C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABB377C3-4E69-45B4-B7E8-70CDFF3918C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABB377C3-4E69-45B4-B7E8-70CDFF3918C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABB377C3-4E69-45B4-B7E8-70CDFF3918C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E5490EC-D862-4362-B824-A3DDB8F9DAB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E5490EC-D862-4362-B824-A3DDB8F9DAB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E5490EC-D862-4362-B824-A3DDB8F9DAB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E5490EC-D862-4362-B824-A3DDB8F9DAB3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
